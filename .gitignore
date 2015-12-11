@@ -229,3 +229,5 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+.vs/BottomsUp/v14/.suo
+.vs/config/applicationhost.config
