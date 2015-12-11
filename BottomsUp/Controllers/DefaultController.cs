@@ -12,5 +12,10 @@ namespace BottomsUp.Controllers
         {
             return View();
         }
+
+        public ActionResult FuckBitches()
+        {
+            return View();
+        }
     }
 }
